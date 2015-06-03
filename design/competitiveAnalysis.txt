@@ -1,0 +1,144 @@
+competitiveAnalysis.txt
+Edward Ahn + esahn + Section H
+
+Flappy Bird
+	Good features
+		- VERY intuitive interface; no buttons in gameplay
+		- easy instructions - just one simple help page before game starts
+		- simple graphics
+		- background moves back rather than bird moving forward
+			- simulates bird moving forward while staying on same position on screen
+		- only 5 total instructions: start, rate, share, score, OK (which gets to to menu)
+		- one ‘whoosh’ sound, one classic crash sound, and one game over sound
+		- extremely addicting for a lot of people
+		- gravity is realistic
+		- bird movement (flapping) is minimal animation
+	Bad features
+		- no levels
+		- no achievements to motivate player to play more
+	How it relates to mine
+		- simple, intuitive user interface is the goal
+		- simple, appropriate graphics needed
+		- for adventure mode, background should move back like Flappy Bird
+		- minimal use of sounds and instructions
+		- gravity must be realistically simulated
+
+Angry Birds
+	Good features
+		- intuitive game; no buttons
+		- lots of levels of difficulty
+		- clean, sophisticated graphics that are appropriate
+		- great gravity simulation
+		- simple sounds
+		- catchy music when game not in gameplay (at menu, level selection)
+		- gets boring quickly because there are just too many levels
+		- cute characters
+	Bad features
+		- N/A
+	How it relates to mine
+		- game is intuitive
+		- gravity is realistically simulated
+		- catchy background music when you enter the game
+		- game is easy to learn
+		- appropriate number of levels to maintain addictive factor
+
+Dots
+	Good features
+		- great, relaxing music
+		- very good, detailed graphics of simple lines and dots
+		- easy to play and learn
+		- simple user interface, especially with the clean, white background
+	Bad features
+		- gets boring quickly because there are just too many levels
+	How it relates to mine
+		- appropriate number of levels to maintain addictive factor
+		- simplicity of gameplay
+
+Paper Toss
+	Good features
+		- yet again, simple gameplay
+		- consecutive score system makes game addictive
+		- wind factor increases difficulty
+		- change settings available (office setting, bathroom setting, etc.)
+		- great physics to simulate reality
+	Bad features
+		- game gets boring quickly once you play for a couple of days
+		- too simple that there’s only one game (no modes, levels, etc.)
+	How it relates to mine
+		- wind factor a big component to my game
+		- projectile motion should look realistic
+		- change settings can be used (winter-snowflake setting, classroom-paper setting)
+		- consecutive scores will be similar to my game’s classic mode
+
+Fruit Ninja
+	Good features
+		- there are different modes (Zen mode, Classic mode, etc.)
+		- different swords available to spice up the game
+		- crisp, simple sounds
+		- background is simple, yet relates to the game itself
+	Bad features
+		- N/A
+	How it relates to mine
+		- will use different modes (adventure, classic, arcade)
+		- need simple ‘whoosh’ sounds after player blows on the leaf
+
+Doodle Jump
+	Good features
+		- yet again, crisp, simple sounds
+		- goal is to get distance, which is addictive
+		- game gradually increases in difficulty
+		- can change the theme (winter theme, space theme, etc.)
+	Bad features
+		- game gets boring because no other modes
+	How it relates to mine
+		- simple, cool sounds for ‘whoosh’
+		- goal to get distance is similar to my game’s adventure mode
+		- change of themes should be implemented (winter theme, etc.); see above for examples
+
+Temple Run
+	Good features
+		- mainly just a menu, gameplay, and game over screens available
+		- with enough coins, can change characters
+		- goes for distance
+	Bad features
+		- gets boring quickly because game doesn’t necessarily get extremely hard
+	How it relates to mine
+		- not many menus for simplicity
+		- goes for distance like my game’s adventure mode
+		- my game can have a store where people can buy new characters with coins
+
+Bike Race
+	Good features
+		- neat use of gyroscope for gameplay
+		- addictive with many levels
+		- multiplayer makes game very addictive, especially with the win-loss ratio
+		- different bikes that will unlock if you do a certain number of levels
+	Bad features
+		- N/A
+	How it relates to mine
+		- if time permits, use gyroscope instead of keys to move the player forward
+		- if time permits, add multiplayer capability
+		- if complete many levels, allow player to earn achievements (like changing character)
+
+Tiny Wings
+	Good features
+		- another bird game! (just kidding)
+		- simple, bright graphics
+		- simple rules and gameplay
+		- different modes available
+		- cute characters
+	Bad features
+		- N/A
+	How it relates to mine
+		- rules must be simple or else whole user interface will be complicated
+		- different modes and simple graphics needed
+
+Draw Something
+	Good features
+		- multiplayer capability
+		- the player draws whatever they want
+	Bad features
+		- not an arcade game; doesn’t truly relate to my project
+	How it relates to mine
+		- multiplayer capability
+		- if time permits, allow player to draw/create own personal level

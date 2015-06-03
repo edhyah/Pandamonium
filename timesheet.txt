@@ -1,0 +1,91 @@
+timesheet.txt
+Edward Ahn + esahn + Section H
+
+15 Nov
+Total Hours: 4.5
+10:30 AM - 11:30 AM : played around with Pygame
+11:30 AM - 12:30 PM : finished PygameAnimationClass, started writing Game (main class)
+3:30 PM - 5:30 PM : continued playing around with Pygame
+9:20 PM - 9:50 PM : studied sprites and implemented harmonic motion to leaf
+
+17 Nov
+Total Hours: 3
+11:00 AM - 1:00 PM : built sprites for player, leaf; wrote drafts of storyboard, competitive analysis, project proposal
+3:30 PM - 4:30 PM : finalized project proposal
+
+18 Nov
+Total Hours: 0.5
+11:30 PM - 12:00 AM : Wrote competitive analysis
+
+19 Nov
+Total Hours: 3
+12:00 AM - 12:30 AM : Finished competitive analysis and storyboard
+11:00 AM - 1:00 PM : Worked on classic mode
+6:30 PM - 7:00 PM : Worked on classic mode
+
+Total Hours from Start to Deliverable #1: 11
+
+23 Nov
+Total Hours: 3
+9:00 AM - 12:00 PM : Finished leaf motion with harmonics, improved collision detection,
+improved blowing (blowing at angles affects leaf motion), searched for a background image
+
+24 Nov
+Total Hours: 4.5
+11:00 AM - 1:00 PM : manipulated images, played around with sprite sheets
+4:00 PM - 5:15 PM : worked on animating player walking
+9:00 PM - 10:15 PM : finished up player walking, limited blow to 1 second, added scores
+
+26 Nov
+Total Hours: 6.5
+9:30 AM - 12:00 PM : created menu
+12:30 PM - 1:00 PM : added slight acceleration to leaf
+1:00 PM - 2:30 PM : started arcade mode
+5:15 PM - 6:45 PM : finished arcade mode
+6:45 PM - 7:15 PM : fixed a bug that kept making program crash after exit
+
+Total Hours from Deliverable #1 to Deliverable #2: 14
+
+27 Nov
+Total Hours: 5.5
+8:30 AM - 11:30 AM : learned about sockets (network programming)
+9:00 PM - 11:30 PM : Worked on drawings
+
+28 Nov
+Total Hours: 9.5
+8:00 AM - 12:00 PM : made drawings via photoshop, refining graphics
+1:00 PM - 2:00 PM : more graphics, polished up code
+3:00 PM - 4:30 PM : finished graphics for player
+6:15 PM - 7:00 PM : manipulated picture of player again, discussed sockets/AI at OH
+8:30 PM - 10:45 PM : finished multiplayer mode
+
+29 Nov
+Total Hours: 3.5
+6:50 PM - 8:10 PM : implemented AI mode
+8:30 PM - 10:40 PM : nearly finished AI mode; has a few bugs
+
+30 Nov
+Total Hours: 9
+9:00 AM - 12:00 PM : debugged AI mode, added leaf variety, added clover (bonus leaf)
+1:30 PM - 2:45 PM : changed window caption, added background music
+3:00 PM - 5:45 PM : completed help screen
+9:00 PM - 11:00 PM : started settings screen, mostly polished up code
+
+2 Dec
+Total Hours: 5
+8:15 AM - 10:15 AM : worked on settings
+12:45 PM - 1:15 PM : tweaks on help and settings based on User Study-a-thon suggestions
+1:45 PM - 2:30 PM : worked on settings (range, cpu level not connected w/ program yet)
+2:50 PM - 3:20 PM : worked on settings
+6:50 PM - 8:05 PM : completed settings, game testing
+
+3 Dec
+Total Hours: 5.5
+11:00 AM - 12:30 PM : started working on video
+1:30 PM - 3:15 PM : finished video
+3:15 PM - 5:00 PM : finished readme.txt, summary.txt (summary of design)
+6:00 PM - 6:30 PM : last debugging, polishing, submitting(!)
+
+Total Hours from Deliverable #2 to Deliverable #3: 38
+
+Total Hours: 63

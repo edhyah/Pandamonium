@@ -1,0 +1,13 @@
+iterativeDesignSuggestions.txt
+Edward Ahn + esahn + Section H
+
+Suggestions from User-Study-a-thon
+leaf in classic mode should go higher and farther
+clover has a bug
+add return/pause button
+last arrow key in help screen should go to the menu
+instead of pressing r to restart, just keep the leaves falling
+(no other suggestions than ones stated above)
+
+Changes that I will make:
+Classic mode will get a bit easier by changing the default values of blow strength and blow range in the settings. The help screen will be changed so that at the end, there will be no right arrow key. Clover bug will be fixed (there is a problem with its parameters not matching the number of arguments there needs to be).

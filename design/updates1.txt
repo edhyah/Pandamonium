@@ -1,0 +1,12 @@
+updates1.txt
+Edward Ahn + esahn + Section H
+
+more accurate leaf motion
+key releases implemented
+refined collision function with trig so can blow leaf at different angles
+can only blow in forward direction
+implemented menu
+created new arcade mode
+sprite sheet used to create simulation of player walking
+leaf rotates when blown to imitate reality
+other minor bug fixes

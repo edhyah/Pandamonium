@@ -1,0 +1,54 @@
+projectProposal.txt
+Edward Ahn + esahn + Section H
+
+Type: 1-Player Game
+
+Objective: Blow the leaf into a basket without the leaf hitting the ground.
+
+Commands:
+	Use the arrow keys to move the player on the screen.
+	Hit the space bar to make the player blow.
+
+Modes:
+	Classic
+	Adventure
+	Arcade
+
+Modules: Pygame
+
+Description:
+	(Classic Mode) The player’s job is to keep a leaf that is falling from the sky 		(the top of the screen) afloat. To do this, the player will blow with an angle of 	elevation. By doing this, the leaf will also move forward. Repeating this process 	will allow the player (who is initially at the left) to eventually blow the leaf 	across the screen and into the basket at the right. The player receives a score of 	how many consecutive leaves have been successfully deposited into the basket.
+
+	(Adventure Mode) The player’s job is to cover as much distance as possible while 	keeping the leaf afloat. In other words, the player receives a score of how much 	distance he/she has covered. The game is over when the leaf hits the ground. There 	are spontaneous gusts of wind to make this difficult.
+
+	(Arcade Mode) Unlike the last couple of modes, in this mode, lots of leaves will 	be falling from the sky at once. The player’s job is to blow as many leaves into 	the basket (which is centered on the screen) in a given time limit. For example, 	the player would receive a score of 15 if, in a time limit of 1:00, the player was 	able to blow 15 leaves into the basket.
+
+Possible Additions If Above is Successfully Completed:
+	Levels for all the modes (using different initial wind speeds)
+	Converting game into phone app which may use the accelerometer
+	Change the picture of the player
+	Allow player to change settings for:
+		Winter theme (snowflake, not a leaf)
+		Classroom theme (paper, not a leaf)
+	Help screen uses AI to show how to play
+	Instead of adventure mode, have multiplayer mode
+
+Procedures:
+	1) Build the classic mode first. To do this:
+		1) Simulate walking graphically
+		2) Input blowing sound and background music
+		3) Find pictures of leaves/players that I like
+		4) Find a good background picture (autumn scene)
+		5) Display scores
+	2) Build the adventure mode. To do this:
+		1) Implement gusts of wind into gameplay
+		2) Display distance
+		3) Move background backwards to simulate player moving forward
+	3) Build the arcade mode.
+	4) Create the menu, help and settings screen. To do this:
+		1) Create menu with links to help, settings, and all three modes
+		2) Create SIMPLE help screen
+		3) Settings for controlling volume of background music, blowing sound
+	5) Polish.
+	6) See section above Procedures for more additions if time left
+
