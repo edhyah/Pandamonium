@@ -17,3 +17,7 @@ https://www.youtube.com/watch?v=Xw5Rdu8jvgE&feature=youtu.be
 
 Credits
 Thanks Iris, Professor Kosbie and all the other CA’s at office hours in helping me make this wonderful game.
+
+Further Ideas
+- Use computer graphics (instead of handdrawn pictures)
+- Adapt this game onto mobile versions (Android, iOS) with tilting that would prompt the character to move
